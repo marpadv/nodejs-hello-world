@@ -1,4 +1,4 @@
 # nodejs-hello-world
 Hello World sample
 
-See [Manage Google Compute Engine with Node.js](https://medium.com/@fhinkel/manage-google-compute-engine-with-node-js-eef8e7a111b4) on Medium.
+![](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiak5ZbHB3VmplWVNjek5JcE9lTG9MVFVpbUhOd1p1dGdQQXhtVUtraGhtdEwycHVOMngzVDJLR0NNTjVUS1NBL3FDVTBKUzJVMThrSzdPVTNKSFBRZXk0PSIsIml2UGFyYW1ldGVyU3BlYyI6IjZROUZnNE9vOGZZaElqRm4iLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
