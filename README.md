@@ -1,4 +1,4 @@
 # nodejs-hello-world
 Hello World sample
 
-![](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiak5ZbHB3VmplWVNjek5JcE9lTG9MVFVpbUhOd1p1dGdQQXhtVUtraGhtdEwycHVOMngzVDJLR0NNTjVUS1NBL3FDVTBKUzJVMThrSzdPVTNKSFBRZXk0PSIsIml2UGFyYW1ldGVyU3BlYyI6IjZROUZnNE9vOGZZaElqRm4iLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
+![](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiTmhidUpDMUNqSG9Xd1hzQ3BqZENNOFg1RkdTZHpJbFE3RkxFUHk4eUpPM0hpdmFDNzFUVmVTYWxWMUtXWUxFRnI0dllyWWZ3U0VGekNieC9ncFBaNGYwPSIsIml2UGFyYW1ldGVyU3BlYyI6InlkZkFlc0JjQkVNa0VzOVUiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
